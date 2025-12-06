@@ -8,7 +8,9 @@
 NOTICE! This fork has been significantly modified compared to the origin.
 Do not use till this note has been removed.
 
-The original ~anki-editor~ package was developed by [[https://github.com/louietan][Lei Tan (@louietan)]]:
+The original ~anki-editor~ package was developed by [[https://github.com/louietan][Lei Tan (@louietan)]]. Feel free
+to support them for making this open-source in the first place. In their own
+words:
 #+begin_quote
   Donation is not required, but if you like my work and want to show
   your appreciation you can donate via [[https://paypal.me/louietanlei][PayPal]], every cent is
